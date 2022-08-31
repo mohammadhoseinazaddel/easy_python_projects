@@ -4,4 +4,4 @@ play rock,paper,scissor with runing main.py with python3
 
 ### decorators find out what does it do
 
-![venv activate](https://github.com/mohammadhoseinazaddel/rock-paper-scissor/blob/main/venv.png)
+![venv activate](https://github.com/mohammadhoseinazaddel/easy_python_projects/blob/main/rock-paper-scissor/venv.png)
