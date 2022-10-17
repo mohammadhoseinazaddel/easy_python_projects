@@ -1,4 +1,4 @@
-to test use 
+to test django fast you can use
 ```
 python manage.py shell_plus --notebook
 ```
