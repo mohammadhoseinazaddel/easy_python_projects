@@ -1,5 +1,15 @@
 to test django fast you can use
 ```
+pip install django-extensions
+```
+add this to your django setting app
+```django
+INSTALLED_APPS = (
+    ...
+    'django_extensions',
+)
+```
+```
 python manage.py shell_plus --notebook
 ```
 # django_rest_challenge
