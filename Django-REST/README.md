@@ -1,3 +1,7 @@
+to test use 
+```
+python manage.py shell_plus --notebook
+```
 # django_rest_challenge
 ## this app is full-featured basic Django REST API with below features
 
